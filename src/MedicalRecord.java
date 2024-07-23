@@ -52,4 +52,24 @@ yess click the url its still empty after pushing that will be our repo
 
 sounds good
 so I can just download the file after you push it
+
+remote: Permission to r-bute/HealthCareSystem.git denied to sidrashareef99.
+oh what should i do?
+go to your github and create a public repo
+okay i did it
+whats the url
+click <code> green button
+
+do you want to join a zoom meeting real quick so we can do this and i can share my screen
+yes
+
+
+
+https://us04web.zoom.us/j/6489445699?pwd=PacVBSx8tW4rfthUW7NR3P8BwURPaa.1 
+
+https://github.com/sidrashareef99/HealthCareSystem.git
+
+okkay ill send the details
  */
+
+
